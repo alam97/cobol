@@ -6,8 +6,10 @@ introductory exercises for COBOL
 - countlines : count the numbers of lines in a sequential file
 - months : count the number of students born in each month from records of a sequential file  
 Input data example:
-Name LastName StudentID DDMMYYYY
-Anne Smith    23456789 10011997
+>
+- Name LastName StudentID DDMMYYYY
+- Anne Smith    23456789 10011997
 Output:
-Month    Number of Students
-JAN          01
+>
+- Month    Number of Students
+- JAN          01
